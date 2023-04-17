@@ -1,3 +1,4 @@
+```python
 ## Depto de Sistemas y Computación
 ## Ing. En Sistemas Computacionales
 ## SISTMEMAS PROGRAMABLES 
@@ -17,3 +18,4 @@
 ##
 ##
 
+```
