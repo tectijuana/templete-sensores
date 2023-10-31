@@ -14,7 +14,7 @@
 # Correo:            [Tu Correo]
 # Fecha:             [Fecha]
 # Institución:       Tecnológico Nacional de México (TECNM) - Campus ITT
-# Curso:             Lenguajes de Interfaz
+# Curso:             Sistemas Programables
 #
 # Objetivo:
 # Este programa está diseñado para [proporcionar una breve descripción del objetivo del programa].
